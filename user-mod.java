@@ -2,7 +2,7 @@ import java.util.*;
 import java.text.*;
 import java.io.*;
 
-
+/* The interface is making problems */
 interface Marks{
   int onewordmark=0;
   int multiplemark=0;
